@@ -1,6 +1,6 @@
 //Ex 3
 
-const meusNumerosArrays = [11, 15, 25, 40]
+const meusNumerosArrays = [12, 15, 25, 40]
 const minhasStringsArrays = [`Violão`, `Guitarra`, `Skate`]
 const minhaBaguncaArrays = [`Apple`, 128, true]
 
